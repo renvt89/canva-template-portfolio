@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <title>Seasonal Sale — Instagram Post</title>
+  <rect width="1080" height="1080" fill="#14110F"/>
+  <circle cx="900" cy="180" r="260" fill="#FF6B35" opacity="0.18"/>
+  <rect x="0" y="820" width="1080" height="260" fill="#FF6B35"/>
+  <g font-family="'Arial Black', Arial, sans-serif" fill="#F6F3EE">
+    <text x="90" y="180" font-size="34" letter-spacing="10" fill="#FF6B35">SEASONAL EVENT</text>
+    <text x="90" y="420" font-size="150">SUMMER</text>
+    <text x="90" y="580" font-size="150" fill="#FF6B35">SALE</text>
+    <text x="90" y="720" font-size="72">UP TO 50% OFF</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#F6F3EE">
+    <text x="90" y="905" font-size="30" letter-spacing="6">SHOP NOW · LIMITED TIME</text>
+    <text x="90" y="965" font-size="26" opacity="0.85">yourstore.com · Code: SUMMER50</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>Tutorial — YouTube Thumbnail</title>
+  <rect width="1280" height="720" fill="#1B1B2F"/>
+  <path d="M800,0 L1280,0 L1280,720 L960,720 Z" fill="#2D2D5A"/>
+  <g transform="translate(1010,380)">
+    <polygon points="-90,-90 110,0 -90,90" fill="#FF5C39"/>
+  </g>
+  <g font-family="'Arial Black', Arial, sans-serif">
+    <text x="70" y="180" font-size="40" letter-spacing="8" fill="#FFD23F">STEP-BY-STEP</text>
+    <text x="70" y="320" font-size="96" fill="#FFFFFF">LEARN IT</text>
+    <text x="70" y="470" font-size="96" fill="#FFD23F">IN 10 MIN</text>
+  </g>
+  <rect x="70" y="540" width="420" height="6" fill="#FF5C39"/>
+  <text x="70" y="620" font-family="Arial, sans-serif" font-size="34" fill="#B9B9D6">No experience needed</text>
+</svg>

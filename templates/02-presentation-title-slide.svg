@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <title>Pitch Deck — Title Slide</title>
+  <rect width="1920" height="1080" fill="#0E1B2A"/>
+  <g stroke="#2E5E8C" stroke-width="2" opacity="0.55">
+    <path d="M1180,1080 L1180,420 L1560,420 L1560,60 L1920,60"/>
+    <path d="M1300,1080 L1300,520 L1680,520 L1680,180 L1920,180"/>
+  </g>
+  <circle cx="1600" cy="760" r="150" fill="#3FB6A8" opacity="0.22"/>
+  <circle cx="1600" cy="760" r="70" fill="#3FB6A8"/>
+  <rect x="140" y="300" width="120" height="8" fill="#3FB6A8"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text x="140" y="410" font-size="30" letter-spacing="12" fill="#3FB6A8">2026 STRATEGY</text>
+    <text x="140" y="560" font-size="128" font-weight="700" fill="#FFFFFF">Company name</text>
+    <text x="140" y="710" font-size="128" font-weight="300" fill="#8FA9C4">pitch deck</text>
+    <text x="140" y="830" font-size="34" fill="#8FA9C4">Presented by Your Name · Investor Day</text>
+    <text x="140" y="945" font-size="24" letter-spacing="3" fill="#5E7A96">CONFIDENTIAL — DO NOT DISTRIBUTE</text>
+  </g>
+</svg>

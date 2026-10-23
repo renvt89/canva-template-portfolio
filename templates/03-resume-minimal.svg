@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="595" height="842">
+  <title>Minimal Resume — A4</title>
+  <rect width="595" height="842" fill="#FBFAF7"/>
+  <rect x="0" y="0" width="200" height="842" fill="#EDEAE3"/>
+  <g font-family="Georgia, serif">
+    <text x="40" y="90" font-size="30" fill="#22201C">Your Name</text>
+    <text x="40" y="120" font-size="12" font-family="Arial, sans-serif" letter-spacing="3" fill="#8A8275">PRODUCT DESIGNER</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="10" fill="#5C564C">
+    <text x="40" y="190" letter-spacing="2" font-weight="700" fill="#22201C">CONTACT</text>
+    <text x="40" y="215">you@example.com</text>
+    <text x="40" y="235">+00 000 000 000</text>
+    <text x="40" y="255">City, Country</text>
+    <text x="40" y="275">linkedin.com/in/you</text>
+    <text x="40" y="330" letter-spacing="2" font-weight="700" fill="#22201C">SKILLS</text>
+    <text x="40" y="355">Design systems</text>
+    <text x="40" y="375">Prototyping</text>
+    <text x="40" y="395">User research</text>
+    <text x="40" y="415">Data visualisation</text>
+    <text x="40" y="435">Team leadership</text>
+    <text x="40" y="490" letter-spacing="2" font-weight="700" fill="#22201C">TOOLS</text>
+    <text x="40" y="515">Canva · Figma</text>
+    <text x="40" y="535">Notion · Jira</text>
+    <text x="40" y="555">SQL · HTML/CSS</text>
+    <text x="40" y="610" letter-spacing="2" font-weight="700" fill="#22201C">LANGUAGES</text>
+    <text x="40" y="635">English — Native</text>
+    <text x="40" y="655">Spanish — Fluent</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="10" fill="#5C564C">
+    <text x="230" y="90" letter-spacing="2" font-weight="700" fill="#22201C" font-size="11">PROFILE</text>
+    <text x="230" y="115">Designer with 6+ years shipping accessible</text>
+    <text x="230" y="131">products for startups and public sector.</text>
+    <text x="230" y="147">Focused on clarity, craft and measurable</text>
+    <text x="230" y="163">outcomes.</text>
+    <text x="230" y="215" letter-spacing="2" font-weight="700" fill="#22201C" font-size="11">EXPERIENCE</text>
+    <text x="230" y="243" font-size="12" fill="#22201C" font-weight="700">Senior Product Designer</text>
+    <text x="540" y="243" text-anchor="end" font-size="10">2022 — Now</text>
+    <text x="230" y="259" font-style="italic">Company Name · Remote</text>
+    <text x="230" y="279">• Led redesign of a checkout funnel that raised</text>
+    <text x="230" y="295">conversion 18% in two quarters.</text>
+    <text x="230" y="311">• Built a 40-component design system used by</text>
+    <text x="230" y="327">three product teams.</text>
+    <text x="230" y="364" font-size="12" fill="#22201C" font-weight="700">Product Designer</text>
+    <text x="540" y="364" text-anchor="end" font-size="10">2019 — 2022</text>
+    <text x="230" y="380" font-style="italic">Company Name · Hybrid</text>
+    <text x="230" y="400">• Shipped a mobile onboarding flow that cut</text>
+    <text x="230" y="416">support tickets 30%.</text>
+    <text x="230" y="432">• Ran 30+ usability sessions and published the</text>
+    <text x="230" y="448">research playbook.</text>
+    <text x="230" y="485" letter-spacing="2" font-weight="700" fill="#22201C" font-size="11">EDUCATION</text>
+    <text x="230" y="510" font-size="12" fill="#22201C" font-weight="700">B.A. Design</text>
+    <text x="540" y="510" text-anchor="end" font-size="10">2015 — 2019</text>
+    <text x="230" y="526" font-style="italic">University Name</text>
+    <text x="230" y="565" letter-spacing="2" font-weight="700" fill="#22201C" font-size="11">SELECTED WORK</text>
+    <text x="230" y="590">• Example project — one-line outcome</text>
+    <text x="230" y="606">• Example project — one-line outcome</text>
+    <text x="230" y="622">• Example project — one-line outcome</text>
+  </g>
+  <line x1="230" y1="660" x2="540" y2="660" stroke="#D9D3C7" stroke-width="1"/>
+  <text x="230" y="690" font-family="Arial, sans-serif" font-size="9" fill="#8A8275">References available on request.</text>
+</svg>
